@@ -1,0 +1,1 @@
+# SC_DET_based_keyframe_extraction
