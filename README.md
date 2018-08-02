@@ -9,24 +9,23 @@ This software is licensed under the Apache License 2.0.
 
 ## Information
 
-We run this software on the following envirnment.
+This software has been tested on the following envirnment.
 
-* Windows 10.
-* MATLAB R2017b.
+* Windows 10
+* MATLAB R2017b
 
-This software use the following programs and data.
+This software uses the following programs and data.
 
 * KSVD-Box v9
     * http://www.cs.technion.ac.il/~ronrubin/software.html
 * Sparse Modeling Representative Selection (SMRS) 
     * http://www.ccs.neu.edu/home/eelhami/codes.htm 
-* Test Video Data.
+* Test Video Data from the SumMe dataset
     * https://gyglim.github.io/me/vsum/index.html
 
 
-## How to run.
+## How to run
 
-1. Run setup.ps1 with Windows PowerShell.
-2. Open main_keyframes.m with MATLAB.
-3. Run main_keyframes.
-
+1. Run `setup.ps1` with Windows PowerShell.
+2. Open `main_keyframes.m` with MATLAB.
+3. Run `main_keyframes`.
